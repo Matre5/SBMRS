@@ -1,2 +1,3 @@
-# SBMRS
+# RxSync
 Symptom-Based Medicine Recommendation System
+The system features a user-friendly frontend built using Streamlit, which allows users to input their symptoms through an intuitive interface. Using a Support Vector Machine (SVM) model, it accurately predicts potential diseases based on the reported symptoms. The system provides personalized recommendations, including tailored medication suggestions, lifestyle adjustments, and precautionary measures based on the predicted disease. Additionally, it integrates a comprehensive medical database to ensure that the recommendations are up-to-date and accurate. To enhance accessibility, the system includes a language translator supporting over 50 languages and offers an email option to send recommendations directly to the user's email. Designed with a user-centric approach, the system offers a seamless experience focused on simplicity and ease of use for non-technical users.
